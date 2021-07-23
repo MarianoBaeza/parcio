@@ -1,0 +1,31 @@
+$light: #FFF8F0;
+$gray: #7C8483;
+$dark: #1E1E24;
+$main: #b60f09;
+
+.main-bg {
+    background-size: cover;           
+    background-repeat: no-repeat;
+    background-position: center center; 
+}
+.title {
+    font-size: 56px;
+}
+.searchbar {
+    width: 50%;
+}
+.search-input {
+    padding: 10px;
+    width: 90%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: none;
+}
+.search-button {
+    height: 100%;
+    background-color: $main;
+    border: none;
+    width: 10%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
