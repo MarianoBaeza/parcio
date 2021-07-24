@@ -39,8 +39,7 @@ export const ListItem = ({ image, address, starRating, reviewCount, url, city })
                 }
             </div>
             <div className={s.info}>
-                <span>Parking lot Score: {score}</span>
-                <span>Parking lot Score: {starRating}</span>
+                <span>Parking lot Score: {score.toFixed(2)}</span>
                 <h5>Reviews: {reviewCount}</h5>
                 <h5>City: {city}</h5>
                 <h5>Address: {address}</h5>
