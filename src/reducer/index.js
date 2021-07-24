@@ -1,4 +1,4 @@
-import {GET_PARKING_LOTS} from '../actions'
+import { GET_PARKING_LOTS } from '../actions'
 
 const initialState = {
     parkingLots: [],
@@ -9,8 +9,13 @@ const reducer = (state = initialState, action) => {
         case GET_PARKING_LOTS:
             return {
                 ...state,
-                parkingLots = action.payload
+                parkingLots: action.payload
             }
+        default: {
+            return {
+                
+            };
+        }
     }
 }
 
