@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/parcio/static/css/main.617e720b.chunk.css",
+    "main.js": "/parcio/static/js/main.5c7a7d64.chunk.js",
+    "main.js.map": "/parcio/static/js/main.5c7a7d64.chunk.js.map",
+    "runtime-main.js": "/parcio/static/js/runtime-main.92b632b4.js",
+    "runtime-main.js.map": "/parcio/static/js/runtime-main.92b632b4.js.map",
+    "static/css/2.455652b6.chunk.css": "/parcio/static/css/2.455652b6.chunk.css",
+    "static/js/2.2239e36b.chunk.js": "/parcio/static/js/2.2239e36b.chunk.js",
+    "static/js/2.2239e36b.chunk.js.map": "/parcio/static/js/2.2239e36b.chunk.js.map",
+    "index.html": "/parcio/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/parcio/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.617e720b.chunk.css.map": "/parcio/static/css/main.617e720b.chunk.css.map",
+    "static/js/2.2239e36b.chunk.js.LICENSE.txt": "/parcio/static/js/2.2239e36b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92b632b4.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.2239e36b.chunk.js",
+    "static/css/main.617e720b.chunk.css",
+    "static/js/main.5c7a7d64.chunk.js"
+  ]
+}
