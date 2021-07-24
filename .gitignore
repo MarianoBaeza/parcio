@@ -2,6 +2,7 @@
 
 # files
 package-lock.json
+env.js
 
 # dependencies
 /node_modules

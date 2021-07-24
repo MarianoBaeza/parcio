@@ -1,0 +1,12 @@
+$light: #FFF8F0;
+$gray: #7C8483;
+$dark: #1E1E24;
+$main: #b60f09;
+
+.list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 15px;
+    margin-top: 100px;
+}
